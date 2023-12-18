@@ -6,71 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="da76ba83-1630-4725-b781-cdd1d45094fa" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Quiz1/HitungProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Quiz1/NilaiRata2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas2/NestedIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas2/NestedIfJOptionPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/CelsiustoFahrenheit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/Flowchart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/KonversiAngka.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/PemesananMakanan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/Penjumlahan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/AngkakeHurufIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/AngkakeHurufSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/AngkakeIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/HurufkeIndexIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/HurufkeIndexSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/EvenOddNumbersDoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/EvenOddNumbersFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/EvenOddNumbersWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/JumlahAngkaDoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/JumlahAngkaFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/JumlahAngkaWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/PrintNumbersDoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/PrintNumbersFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/PrintNumbersWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/AlsAllWet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/DeleteEvidence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/DeleteEvidence134.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/GuessAgain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/Yawn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas7/ArrayGanjilGenap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/tugas1/LuasKelilingLingkaran.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/tugas1/LuasPersegiPanjang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/tugas1/TotaldanRatarata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Listing7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Quiz1/HitungProfit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Quiz1/NilaiRata2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas1/LuasKelilingLingkaran.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas1/LuasPersegiPanjang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas1/TotaldanRatarata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas2/NestedIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas2/NestedIfJOptionPane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/CelsiustoFahrenheit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/Flowchart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/KonversiAngka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/PemesananMakanan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/Penjumlahan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/AngkakeHurufIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/AngkakeHurufSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/AngkakeIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/HurufkeIndexIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/HurufkeIndexSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/EvenOddNumbersDoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/EvenOddNumbersFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/EvenOddNumbersWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/JumlahAngkaDoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/JumlahAngkaFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/JumlahAngkaWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/PrintNumbersDoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/PrintNumbersFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/PrintNumbersWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/AlsAllWet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/DeleteEvidence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/DeleteEvidence134.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/GuessAgain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/Yawn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas7/ArrayGanjilGenap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tugas9/Biodata.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702897423079</updated>
-      <workItem from="1702897424127" duration="6645000" />
+      <workItem from="1702897424127" duration="7822000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -202,7 +138,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702904016631</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1702904980328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702904980328</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1702905571598</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702905571598</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
