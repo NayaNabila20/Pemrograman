@@ -8,7 +8,7 @@ public class p2{
 
         System.out.println("Panjang = "+panjang);
         System.out.println("Lebar = "+lebar);
-        System.out.println("Luas = "+luas);
+        System.out.println("Luass = "+luas);
     }
 
 }
