@@ -1,18 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da76ba83-1630-4725-b781-cdd1d45094fa" name="Changes" comment="" />
+    <list default="true" id="da76ba83-1630-4725-b781-cdd1d45094fa" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Quiz1/HitungProfit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Quiz1/NilaiRata2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas2/NestedIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas2/NestedIfJOptionPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/CelsiustoFahrenheit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/Flowchart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/KonversiAngka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/PemesananMakanan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas3/Penjumlahan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/AngkakeHurufIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/AngkakeHurufSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/AngkakeIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/HurufkeIndexIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas4/HurufkeIndexSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/EvenOddNumbersDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/EvenOddNumbersFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/EvenOddNumbersWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/JumlahAngkaDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/JumlahAngkaFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/JumlahAngkaWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/PrintNumbersDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/PrintNumbersFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas5/PrintNumbersWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/AlsAllWet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/DeleteEvidence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/DeleteEvidence134.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/GuessAgain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas6/Yawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/Tugas7/ArrayGanjilGenap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/tugas1/LuasKelilingLingkaran.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/tugas1/LuasPersegiPanjang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/out/production/Tugas Pemrograman/tugas1/TotaldanRatarata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Listing7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Quiz1/HitungProfit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Quiz1/NilaiRata2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas1/LuasKelilingLingkaran.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas1/LuasPersegiPanjang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas1/TotaldanRatarata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas2/NestedIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas2/NestedIfJOptionPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/CelsiustoFahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/Flowchart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/KonversiAngka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/PemesananMakanan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas3/Penjumlahan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/AngkakeHurufIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/AngkakeHurufSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/AngkakeIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/HurufkeIndexIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas4/HurufkeIndexSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/EvenOddNumbersDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/EvenOddNumbersFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/EvenOddNumbersWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/JumlahAngkaDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/JumlahAngkaFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/JumlahAngkaWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/PrintNumbersDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/PrintNumbersFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas5/PrintNumbersWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/AlsAllWet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/DeleteEvidence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/DeleteEvidence134.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/GuessAgain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas6/Yawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas Pemrograman/src/Tugas7/ArrayGanjilGenap.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ZiGJdZ7fIoHt2frEF7MvSpG9MT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -25,7 +110,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/NAYA NABILA/Intellij IDEA/project/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -38,9 +128,102 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702897423079</updated>
-      <workItem from="1702897424127" duration="1000" />
+      <workItem from="1702897424127" duration="6645000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1702897591914</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702897591914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1702899734545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702899734545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1702899808809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702899808809</updated>
+    </task>
+    <task id="LOCAL-00004" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1702899831480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702899831480</updated>
+    </task>
+    <task id="LOCAL-00005" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1702900345301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702900345301</updated>
+    </task>
+    <task id="LOCAL-00006" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1702901269519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702901269519</updated>
+    </task>
+    <task id="LOCAL-00007" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1702902198425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702902198425</updated>
+    </task>
+    <task id="LOCAL-00008" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1702904003377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702904003377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1702904016631</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702904016631</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <MESSAGE value="third commit" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
