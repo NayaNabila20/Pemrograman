@@ -7,7 +7,7 @@ public class p2{
         int luas = panjang * lebar;
 
         System.out.println("Panjang = "+panjang);
-        System.out.println("Lebar = "+lebar);
+        System.out.println("Lebarr = "+lebar);
         System.out.println("Luass = "+luas);
     }
 
