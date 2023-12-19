@@ -1,4 +1,4 @@
-package ListingChapter7;
+package Tugas9;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import java.time.LocalDate;
 import java.time.Period;
 
-public class Mahasiswa extends JFrame {
+public class DataMahasiswa extends JFrame {
     private JPanel panelMain;
     private JTextField textField1;
     private JTextField textField2;
